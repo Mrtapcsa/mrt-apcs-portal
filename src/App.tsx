@@ -432,7 +432,7 @@ function LoginScreen({ onLogin }: { onLogin: (role: Role) => void }) {
             <button className="mt-5 w-full rounded-xl bg-amber-400 px-4 py-3 font-semibold text-slate-950 transition hover:bg-amber-300" type="submit">
               Enter Portal
             </button>
-            <p className="mt-4 text-xs leading-5 text-slate-300">Phase 1 uses a simple password gate as approved. For sensitive student data, move to individual Supabase Auth accounts in a future phase.</p>
+            <p className="mt-4 text-xs leading-5 text-slate-300">For Login Issues, please ask mrT.</p>
           </motion.form>
         </div>
       </motion.div>
